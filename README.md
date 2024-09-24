@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaLyAnDrO
+- 👋 Hi, I’m Pavlo
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning CSS, HTML, Javascript and SQL
 - 💞️ I’m looking to collaborate on ...
