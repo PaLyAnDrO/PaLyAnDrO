@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Pavlo
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning CSS, HTML, Javascript and SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Mail to pavlo.musianovych@lnu.edu.ua
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Like Naruto and play volleyball 
 
 <!---
